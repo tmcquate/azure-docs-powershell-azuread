@@ -81,7 +81,7 @@ Accept wildcard characters: False
 ### -InvitedUserType
 The userType of the user being invited.
 By default, this is Guest.
-You can invite as Member if you're are company administrator.
+You can invite as Member if you're a company administrator.
 
 ```yaml
 Type: String
